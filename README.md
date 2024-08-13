@@ -1,4 +1,4 @@
-This page contains the personal project aobut the personal practice of developing CNN models for 3D medical images given by MedMNIST3D datasets. <br />
+This page contains the personal project about the personal practice of developing CNN models for 3D medical images given by MedMNIST3D datasets. <br />
 Original datasets are given by MedMNIST v2. Visit the site https://medmnist.com/ for more details.
 
 summary_of_results(korean).pdf : <br />
